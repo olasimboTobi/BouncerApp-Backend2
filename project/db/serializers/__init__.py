@@ -1,0 +1,1 @@
+from db.serializers.reset_serializer import SetNewPasswordSerializer
